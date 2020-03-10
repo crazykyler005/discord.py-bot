@@ -1,4 +1,4 @@
-# Discord.py Bot
+# Discord.py
 
 ## Description
 
