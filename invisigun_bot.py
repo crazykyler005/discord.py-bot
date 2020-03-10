@@ -64,7 +64,6 @@ async def on_message(message):
 				if r.lower() == region:
 					validRegion = True
 					break
-			}
             if validRegion:
 				add_region(message, r)
 			else:
